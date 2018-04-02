@@ -5,6 +5,12 @@
  */
 
 //  tambah komentar
+
+// diubah tambah komen aja bro
+// ini apa lagi biar ada aja yg dikomen
+
+
+
 (function (root, factory) {
 	if (typeof define === 'function' && define.amd) {
 		define([], factory(root));
