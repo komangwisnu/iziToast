@@ -3,6 +3,8 @@
  * http://izitoast.marcelodolce.com
  * by Marcelo Dolce.
  */
+
+//  tambah komentar
 (function (root, factory) {
 	if (typeof define === 'function' && define.amd) {
 		define([], factory(root));
