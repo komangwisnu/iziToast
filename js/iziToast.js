@@ -8,8 +8,8 @@
 
 // diubah tambah komen aja bro
 // ini apa lagi biar ada aja yg dikomen
-// ini dari branch1
-// nanti mau di gabung ke master
+// ini dari branch01
+
 
 
 
